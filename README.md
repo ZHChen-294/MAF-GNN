@@ -1,6 +1,6 @@
 # MAC-GNN
 
-## Comming soon...
+## Public availability after article acceptance, coming soon...
 
 Created by [Zhihong Chen](https://github.com/ZHChen-294), Hongmei Yan
 
