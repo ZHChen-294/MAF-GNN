@@ -2,7 +2,7 @@
 
 ## Public availability after article acceptance, coming soon...
 
-Created by [Zhihong Chen](https://github.com/ZHChen-294), Jiang Wu, Li Pu, Shaoqing Li, Yuhao Zhang, [Dezhong Yao](https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao) and Hongmei Yan
+Created by [Zhihong Chen](https://github.com/ZHChen-294), Jiang Wu, Li Pu, Shaoqing Li, Yuhao Zhang, [Dezhong Yao](https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao)* and Hongmei Yan*
 
 _The Clinical Hospital of Chengdu Brain Science Institute, Sichuan Institute for Brain Science and Brain-Inspired Intelligence, School of Life Science and
 Technology, University of Electronic Science and Technology of China, Chengdu, 610054, Sichuan, China_
