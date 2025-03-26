@@ -1,6 +1,6 @@
 # MAF-GNN
 
-## Public availability after article acceptance, coming soon...
+## Public availability after article accepted, coming soon...
 
 Created by [Zhihong Chen](https://github.com/ZHChen-294), Jiang Wu, Li Pu, Shaoqing Li, Yuhao Zhang, [Dezhong Yao](https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao)* and Hongmei Yan*
 
