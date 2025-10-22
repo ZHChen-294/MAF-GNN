@@ -1,0 +1,23 @@
+# ===================================
+# Project Requirements
+# Python >= 3.8
+# ===================================
+
+# --- Deep Learning & Graph Neural Networks ---
+torch==2.3.0
+torch-geometric==2.5.3
+einops==0.8.0
+
+# --- Scientific Computing & Data Analysis ---
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+scikit-learn==1.5.1
+
+# --- Utilities ---
+tqdm==4.66.5
+pyyaml==6.0.2
+
+# --- (Optional) CUDA version ---
+# Example for CUDA 12.1:
+# pip install torch==2.3.0+cu121 -f https://download.pytorch.org/whl/torch_stable.html
