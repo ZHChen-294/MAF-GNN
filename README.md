@@ -42,7 +42,7 @@ This project was developed in **Python 3.8+** and implemented with **PyTorch**.
 
 ## 💻 Hardware Requirements
 
-The model requires a **GPU with at least 12 GB of VRAM (≥ NVIDIA RTX 3060)** to ensure stable multi-fold training and feature fusion.
+The model requires a **GPU for training acceleration**, and it is recommended to use **NVIDIA RTX 3060 or higher (≥12 GB VRAM)**.
 
 | Component | Minimum | Recommended |
 |------------|-----------|-------------|
