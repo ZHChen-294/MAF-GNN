@@ -30,7 +30,6 @@ This project was developed in **Python 3.8+**, and relies on the following main 
 | **Deep Learning & Graph Neural Networks** | `torch`, `torch.nn`, `torch.nn.functional`, `torch.utils.data`, `torch_geometric`, `einops` |
 | **Scientific Computing & Data Analysis** | `numpy`, `pandas`, `scipy`, `scikit-learn` |
 | **Utilities & System** | `os`, `sys`, `time`, `copy`, `random`, `argparse`, `datetime` |
-| **Project Modules (Local)** | `utils`, `data_loading`, `Config`, `Model.MAF_GNN` |
 
 ---
 
