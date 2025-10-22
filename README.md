@@ -40,6 +40,22 @@ This project was developed in **Python 3.8+** and implemented with **PyTorch**.
 
 ---
 
+## 💻 Hardware Requirements
+
+The model requires a **GPU with at least 12 GB of VRAM (≥ NVIDIA RTX 3060)** to ensure stable multi-fold training and feature fusion.
+
+| Component | Minimum | Recommended |
+|------------|-----------|-------------|
+| **GPU** | NVIDIA RTX 3060 (12 GB VRAM) | RTX 3090 / A6000 or higher |
+| **CPU** | 6 cores | 12 cores or more |
+| **RAM** | 16 GB | 32 GB or more |
+| **Storage** | 20 GB free disk space | 100 GB (for multi-fold training) |
+| **OS** | Ubuntu 20.04+ / Windows 10+ | — |
+| **CUDA Toolkit** | 11.8 – 12.1 | Match your PyTorch version |
+| **Python** | ≥ 3.8 | ≥ 3.10 recommended |
+
+---
+
 ## ⚙️ Installation
 
 Clone the repository and install all dependencies:
