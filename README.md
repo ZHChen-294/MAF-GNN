@@ -61,7 +61,7 @@ The datasets used in this study are **publicly available** or can be **accessed 
 
 | Dataset | Description | Access Link |
 |----------|--------------|-------------|
-| **Major Depressive Disorder** | Resting-state fMRI dataset of major depressive disorder (MDD). | [🔗 Ref Link]([https://your-dataset-link.com](https://doi.org/10.1073/pnas.1900390116)) |
+| **Major Depressive Disorder** | Resting-state fMRI dataset of major depressive disorder (MDD). | <a href="[https://github.com/ZHChen-294](https://doi.org/10.1073/pnas.1900390116)">🔗 Ref Link</a> |
 | **Autism Spectrum Disorder** | Resting-state fMRI dataset of autism spectrum disorder (MDD). | [🔗 Ref Link]([https://your-dataset-link.com](https://doi.org/10.1038/mp.2013.78)) |
 
 ---
