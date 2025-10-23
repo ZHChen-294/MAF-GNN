@@ -163,7 +163,7 @@ if __name__ == "__main__":
     # Save directory setup
     args.model_name = "MAF_GNN"
     args.save_dir = os.path.join(
-        "F:/Dataset/Depression/DIRECT/UESTC/Result",
+        "Your dir",
         args.dataset,
         args.Holistic_atlas,
         f"{args.model_name}_{args.timestamp}",

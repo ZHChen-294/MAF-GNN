@@ -85,7 +85,7 @@ def get_FC_map(sub_list, dataset, atlas="AAL", fold_num=1):
     train_weight_index : list
         Counts of [HC, MDD] for class balancing.
     """
-    file_dir = "F:/Dataset/Depression/DIRECT/UESTC"
+    file_dir = ""
     data_load_path = os.path.join(file_dir, dataset, atlas, f"MDD_{atlas}_FC")
 
     data, label = [], []
@@ -157,8 +157,8 @@ def multi_atlas_DataLoader(args, atlases):
     weight : torch.Tensor
         Class-balancing weight tensor for CrossEntropyLoss.
     """
-    train_csv = f"F:/Dataset/Depression/DIRECT/UESTC/Data_csv_list/{args.dataset}/MDD_train_data_list_{args.fold_num}.csv"
-    test_csv = f"F:/Dataset/Depression/DIRECT/UESTC/Data_csv_list/{args.dataset}/MDD_test_data_list_{args.fold_num}.csv"
+    train_csv = f"{Your dir}/{args.dataset}/MDD_train_data_list_{args.fold_num}.csv"
+    test_csv = f"{Your dir}/{args.dataset}/MDD_test_data_list_{args.fold_num}.csv"
 
     case_train_list = pd.read_csv(train_csv)["Subject ID"].tolist()
     case_test_list = pd.read_csv(test_csv)["Subject ID"].tolist()
