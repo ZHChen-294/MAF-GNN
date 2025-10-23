@@ -47,7 +47,7 @@ The model requires a **GPU for training acceleration**, and it is recommended to
 |------------|-----------|-------------|
 | **GPU** | NVIDIA RTX 3060 (12 GB VRAM) | RTX 3090 or higher |
 | **CPU** | 6 cores | 12 cores or more |
-| **RAM** | 16 GB | 32 GB or more |
+| **RAM** | 32 GB | 32 GB or more |
 | **Storage** | 20 GB free disk space | 100 GB (for multi-fold training) |
 | **OS** | Ubuntu 20.04+ / Windows 10+ | — |
 | **CUDA Toolkit** | 11.8 – 12.1 | Match your PyTorch version |
