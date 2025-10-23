@@ -43,7 +43,7 @@ This project was developed in **Python 3.8+** and implemented with **PyTorch**.
 
 The model requires a **GPU for training acceleration**, and it is recommended to use **NVIDIA RTX 3060 or higher (≥12 GB VRAM)**.
 
-| Component | Minimum | Recommended |
+| Component | Validated Configuration | Recommended |
 |------------|-----------|-------------|
 | **GPU** | NVIDIA RTX 3060 (12 GB VRAM) | RTX 3090 or higher |
 | **CPU** | 6 cores | 12 cores or more |
