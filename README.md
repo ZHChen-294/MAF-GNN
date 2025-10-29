@@ -1,5 +1,8 @@
 # MAF-GNN
 
+**Paper:** *MAF-GNN: Graph Neural Network-based Multi-Atlas Brain Functional Information Fusion for Major Depressive Disorder Diagnosis with rs-fMRI*  
+<!-- Submitted to [**Biomedical Signal Processing and Control**](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) (In Revising). -->
+
 <p align="center">
 Created by <a href="https://github.com/ZHChen-294">Zhihong Chen</a>, Jiang Wu, Li Pu, Shaoqing Li, Yuhao Zhang, 
 <a href="https://scholar.google.com.hk/citations?user=ClUoWqsAAAAJ&hl=zh-CN&oi=ao">Dezhong Yao*</a> and Hongmei Yan*
@@ -11,9 +14,6 @@ School of Life Science and Technology, University of Electronic Science and Tech
 ---
 
 This repository contains the **PyTorch implementation** for **MAF-GNN**.
-
-**Paper:** *MAF-GNN: Graph Neural Network-based Multi-Atlas Brain Functional Information Fusion for Major Depressive Disorder Diagnosis with rs-fMRI*  
-<!-- Submitted to [**Biomedical Signal Processing and Control**](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) (In Revising). -->
 
 **Code:** [https://github.com/ZHChen-294/MAF-GNN](https://github.com/ZHChen-294/MAF-GNN)
 
